@@ -14,4 +14,3 @@ function findDeep(word,findWord) {
     }
     
 }
-findDeep(Obj,'fly');
